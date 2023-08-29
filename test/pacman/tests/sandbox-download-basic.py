@@ -1,4 +1,4 @@
-self.description = "--upgrade with SandboxUser set"
+self.description = "--sync with SandboxUser set"
 self.require_capability("curl")
 
 p1 = pmpkg('pkg1', '1.0-1')
